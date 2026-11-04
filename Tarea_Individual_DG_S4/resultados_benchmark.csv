@@ -1,0 +1,4 @@
+algoritmo,nodos_expandidos,tiempo_s,longitud_camino,max_frontera,memoria_pico_kb,solucion_valida
+BFS,14,0.0000196264,11,3,1.781,True
+DFS,11,0.0000163054,11,5,1.141,True
+DFS (orden inverso),13,0.0000185883,11,3,1.078,True
